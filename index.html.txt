@@ -1,0 +1,351 @@
+<html>
+    <head>
+        
+    
+    <style>
+        div.divline1{
+            width: 1500px;
+            height: 60px;
+            background-color: #333333;
+            display: flex;
+        }
+            div.divline1 div{
+                width: 33.3333%;;
+                height: 60px;
+            }
+
+
+        div.divline2{
+            width: 1500px;
+            height: 100px;
+            background-color: #ffffff;
+            display: flex;
+        }
+            div.divline2 div{
+                width: 11.111%;;
+                height: 100px;
+            }
+        div.divline3{
+            width: 1500px;
+            height: 360px;
+            display: flex;
+        
+            
+
+            
+        }
+          
+
+        div.divline4{
+            width: 1500px;
+            height: 300px;
+            display: flex;
+        }
+            div.divline4 div{
+                width: 33.3333%;
+                height: 100px;
+            }
+        div.divline5{
+            width: 1500px;
+            height: 450px;
+            display: flex;
+        }
+            div.divline5 div{
+                width: 50%;;
+                height: 450px;
+            }
+    
+      
+        div.divline6{
+            width: 1500px;
+            height: 100px;
+            background-color: #ffffff;
+        }
+            div.divline6 div{
+                width: 25%;;
+                height: 400px;
+            }
+
+        div.divline7{
+            width: 1500px;
+            height: 250px;
+            display: flex;
+        }
+
+            div.divline7 div{
+                width: 25%;
+                height: 250px;
+            }
+
+
+        div.divline8{
+            width: 1500px;
+            height: 250px;
+            background-color: #5c5c5c;
+        }
+           
+        div.divline9{
+            width: 1500px;
+            height: 100px;
+            background-color: #eab803;
+            display: flex;
+        }
+            div.divline9 div{
+                width: 50%;;
+                height: 100px;
+            }
+            
+        
+        div.divline10{
+            width: 1500px;
+            height: 300px;
+            background-color: #222222;
+            display: flex;
+        }
+            div.divline10 div{
+                width: 14.2857%;;
+                height: 300px;
+            }
+
+        div.divline11{
+            width: 1500px;
+            height: 70px;
+            background-color: #2c2c2c;
+        }
+
+        
+
+            .rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #ccbfbf;}
+            
+        
+    
+    </style>
+<!--STYLE SHEETS-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    </head>
+    <body>
+<!--LINE 01-->
+<div class="divline1">
+    <div style="background-color: #2c2c2c; text-align: center;font-size: 12px;color: #ffffff; width: 300px;"><br><i class="fa fa-phone" style="width: 12px; height: 12px; color: #eab803; margin-right: 10px;"></i>Call us: +84 905 01 00 25</div>
+    <div style="background-color: #2c2c2c; text-align: left;font-size: 12px;color: #ffffff; width: 300px;"><br><i class="fa fa-envelope" style="width: 12px; height: 12px; color: #eab803; margin-right: 10px;"></i>Email us: themesflat@gmail.com</div>
+
+    <div style="background-color: #2c2c2c; text-align: center;font-size: 12px;color: #ffffff; width: 900px;"><br>
+        <i class="fa fa-twitter" style="width: 12px; height: 12px; color: #ccbfbf; margin-left: 400px;margin-right: 20px;"></i>
+        
+        <i class="fa fa-facebook" style="width: 12px; height: 12px; color: #ccbfbf;margin-right: 20px;"></i>
+        <i class="fa fa-google-plus" style="width: 12px; height: 12px; color: #ccbfbf;margin-right: 20px;"></i>
+        <i class="fa fa-pinterest" style="width: 12px; height: 12px; color: #ccbfbf;margin-right: 20px;"></i>
+        <i class="fa fa-behance" style="width: 12px; height: 12px; color: #ccbfbf;margin-right: 20px;"></i></div>
+</div>
+
+<!--LINE 02-->
+<div class="divline2"><img src="C:\Users\WD\Desktop\logo.png" style="height: 40px; width: 120px; margin-top: 30px; margin-left: 80px; z-index: 100;">
+    <div style="background-color: #ffffff; font-size: 14px; color: #eab803; text-align: right;  width: 300px; margin-right: 60px;"><br>HOME <br>
+<svg width="25" height="12" xmlns="http:/www.w3.org/2000/svg" style="margin-right:10;">
+        <rect width="25" height="15" x="10" y="5" style="fill:rgb(224, 184, 51);stroke-width: 3;"/>
+</svg>
+<svg width="25" height="12" xmlns="http:/www.w3.org/2000/svg" style="margin-left:-22">
+        <rect width="25" height="15" x="10" y="5" style="fill:rgb(0, 0, 0);stroke-width: 3;"/>
+</svg></div>
+    <div style="background-color: #ffffff; font-size: 14px; color: #222222; text-align: center; width: 166.666px;"><br>ABOUT</div>
+    <div style="background-color: #ffffff; font-size: 14px; color: #222222; text-align: center; width: 166.666px;"><br>SERVICES</div>
+    <div style="background-color: #ffffff; font-size: 14px; color: #222222; text-align: center; width: 166.666px;"><br>WORK</div>
+    <div style="background-color: #ffffff; font-size: 14px; color: #222222; text-align: center; width: 166.666px;"><br>CONTACT US</div>
+    <div style="background-color: #ffffff; font-size: 14px; color: #222222; text-align: center; width: 166.666px;"><br>JOURNAL</div>
+    <div style="background-color: #ffffff; font-size: 14px; color: #222222; text-align: center; width: 166.666px;"><br>ELEMENT</div>
+    <div style="background-color: #ffffff; font-size: 14px; color: #222222; text-align: center; width: 200px;"><br><i class="fa fa-bars"></i></div>
+</div>
+
+<!--LINE 03-->
+<div class="divline3">
+    <div style="text-align: right; width: 600px;margin-left: 300px;"><h1 style="color: #ffffff;text-align: left; font-size: 45px; margin-bottom: 0; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Our global is satisfy</h1><h1 style="text-align: left;font-size: 45px; margin-top: 0; color: #ffffff;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">you</h1>
+    <p style="text-align: left; color: #ffffff;">Working together to achieve our clients' isn't just</p>
+    <p style="text-align: left; color: #ffffff;">wishful thinking</p>
+    <h3 style="text-align: left;"><button style=" background-color: #eab803; color: #ffffff; border: #eab803; height: 40px; width: 130px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">READ MORE ></button>
+    <button style=" background-color: #333333; color: #ffffff; border: #333; margin: 15px; width: 130px; height: 40px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">CONTACT US ></button></h3></div>
+    <img src="C:\Users\WD\Desktop\2.jpg" alt="civil engineer" usemap="#workmap" width="1500px" height="360px"
+         style=" display: block ; margin-top: -20px; z-index: -1; margin-left: -900px; ">
+    
+</div>
+
+
+<div class="divline4">
+    <div style="width: 500px;text-align: center;"><i class="fa fa-laptop" style="color: #ffffff; border-radius: 50% ; background-color:  #eab803; font-size: 80px; text-align: center; width: 90px; height: 90px;"></i>
+        <h4 style="color: #5c5c5c; text-align: center; font-size: 20px; margin-top: 23px;margin-bottom: 12px;">Modern Design</h4><p style="color: #5c5c5c; text-align: center; margin: 2px;">Nullam ultricies urna id ornare interdum. Maecenas ut</p>
+        <p style="color: #5c5c5c; text-align: center; margin: 2px;">suscipit mauris, non sodales metus.</p></div>
+
+    <div style="width: 500px;text-align: center;"><i class="fa fa-gear" style="color: #ffffff; border-radius: 50% ; background-color:  #eab803; font-size: 80px; text-align: center; width: 90px; height: 90px;"></i>
+        <h4 style="color: #5c5c5c; text-align: center; font-size: 20px; margin-top: 23px;margin-bottom: 12px;">Construction Managment</h4><p style="color: #5c5c5c; text-align: center; margin: 2px;">Nullam ultricies urna id ornare interdum. Maecenas ut</p>
+        <p style="color: #5c5c5c; text-align: center; margin: 2px;">suscipit mauris, non sodales metus.</p></div>
+
+    <div style="width: 500px;text-align: center;"><i class="fa fa-lightbulb-o" style="color: #ffffff; border-radius: 50% ; background-color:  #eab803; font-size: 80px; text-align: center; width: 90px; height: 90px; "></i>
+        <h4 style="color: #5c5c5c; text-align: center; font-size: 20px; margin-top: 23px;margin-bottom: 12px;">Genarel Contractor</h4><p style="color: #5c5c5c; text-align: center; margin: 2px;">Nullam ultricies urna id ornare interdum. Maecenas ut</p>
+        <p style="color: #5c5c5c; text-align: center; margin: 2px;">suscipit mauris, non sodales metus.</p></div>
+
+
+
+</div>
+
+<div class="divline5" style="background-color: #5c5c5c;">
+<div style="width: 750px; height: 450px;"><img src="C:\Users\WD\Desktop\man.png" alt="white eng logo" style="margin-left: 220px; height: 380px; margin-top: 70px;"></div>
+<div style="width: 750px; height: 450px;">
+<h2 style="font-size: 30px; text-align: left; color: #ffffff;">WELCOME TO <span style="color: #eab803;">ARCH</span></h2>
+<h2 style="font-size: 30px; text-align: left;color: #ffffff; margin: 1px;">COMPANY</h2>
+
+<h4 style="color: #ffffff;text-align: left;margin-bottom: -25px;margin-left: 75.34px;">EASY SETUP</h4>
+<h5 style="color: #ffffff; text-align: left; margin-bottom: 0; margin-top: 0px; margin-left: 15.34px; margin-right: 30px;"><i class="fa fa-chevron-circle-right" style="font-size:48px;color:#eab803; border-radius: 50%; background-color: #5c5c5c; color: #ffffff; border: #ffffff; margin-right: 20px; margin-top: 10px;" ></i>Lactus Velit Vel Eleifend Luctus Quam Angte Interdum Nibh Non</h5>
+<h5 style="color: #ffffff; text-align: left; margin: 0; margin-left: 75.34px;">Sollicitudin Enim Mauris.</h5>
+
+<h4 style="color: #ffffff;text-align: left;margin-bottom: -25px;margin-left: 75.34px;">ITS BEAUTIFUL</h4>
+<h5 style="color: #ffffff; text-align: left; margin-bottom: 0; margin-top: 0px; margin-left: 15.34px; margin-right: 30px;"><i class="fa fa-chevron-circle-right" style="font-size:48px;color:#eab803; border-radius: 50%; background-color: #5c5c5c; color: #ffffff; border: #ffffff; margin-right: 20px; margin-top: 10px;" ></i>Lactus Velit Vel Eleifend Luctus Quam Angte Interdum Nibh Non</h5>
+<h5 style="color: #ffffff; text-align: left; margin: 0; margin-left: 75.34px;">Sollicitudin Enim Mauris.</h5>
+
+<h4 style="color: #ffffff;text-align: left;margin-bottom: -25px;margin-left: 75.34px;">MODERN DESIGN</h4>
+<h5 style="color: #ffffff; text-align: left; margin-bottom: 0; margin-top: 0px; margin-left: 15.34px; margin-right: 30px;"><i class="fa fa-chevron-circle-right" style="font-size:48px;color:#eab803; border-radius: 50%; background-color: #5c5c5c; color: #ffffff; border: #ffffff; margin-right: 20px; margin-top: 10px;" ></i>Lactus Velit Vel Eleifend Luctus Quam Angte Interdum Nibh Non</h5>
+<h5 style="color: #ffffff; text-align: left; margin: 0; margin-left: 75.34px;">Sollicitudin Enim Mauris.</h5>
+
+
+
+</div>
+
+
+
+
+
+
+
+</div>
+
+<div class="divline6">
+ <div style="background-color: #ffffff; color: #222222;text-align: center;"><br><br><h2 style="margin-bottom: 0;">FROM THR BLOG</h2>
+    <svg width="25" height="12" xmlns="http:/www.w3.org/2000/svg" style="margin-right:10; margin: top -20px; margin-left: -181px; " >
+        <rect width="25" height="15" x="10" y="5" style="fill:rgb(224, 184, 51);stroke-width: 3;"/>
+</svg>
+<svg width="25" height="12" xmlns="http:/www.w3.org/2000/svg" style="margin-left:-22">
+        <rect width="25" height="15" x="10" y="5" style="fill:rgb(0, 0, 0);stroke-width: 3;"/>
+</svg>
+    
+ </div>
+
+
+
+</div>
+
+<div class="divline7">
+ <div><div class="rectangle" style="margin-left: 50px;width: 250px; height: 160px; color: #ffffff;"><div style="background-color: #eab803; border-radius: 0;text-align: center; width: 50px; height: 47px;margin: 0;"><h2>11</h2>
+<div style="background-color: #050303;border-radius: 0; width: 50px;height: 25px; color: #ffffff;margin: 0;">August</div>
+
+
+</div></div></div>
+<div style="color: #5c5c5c;text-align: left; margin-left: 20px;"><h4 style="margin-bottom: 0;">Seven weekks working</h4><h4 style="margin-top: 0;">'pro bono' with a charity</h4>
+<p style="margin: 0;">In your life, you may have many</p><p style="margin: 0;">times facing financial issues. It's</p>
+<p style="margin: 0;">good if you know how to handle it by</p><p style="margin-top: 0; margin-bottom: 30px;">your self and have enough</p>
+<p style="margin-top:0; margin-bottom: 50px; color: #eab803;">Continue Reading  ></p></div>
+
+
+<div><div class="rectangle" style="margin-left: 50px;width: 250px; height: 160px; color: #ffffff;"><div style="background-color: #eab803; border-radius: 0;text-align: center; width: 50px; height: 47px;margin: 0;"><h2>11</h2>
+    <div style="background-color: #050303;border-radius: 0; width: 50px;height: 25px; color: #ffffff;margin: 0;">August</div>
+    
+    
+    </div></div></div>
+    <div style="color: #5c5c5c;text-align: left; margin-left: 20px;"><h4 style="margin-bottom: 0;">Seven weekks working</h4><h4 style="margin-top: 0;">'pro bono' with a charity</h4>
+    <p style="margin: 0;">In your life, you may have many</p><p style="margin: 0;">times facing financial issues. It's</p>
+    <p style="margin: 0;">good if you know how to handle it by</p><p style="margin-top: 0; margin-bottom: 30px;">your self and have enough</p>
+    <p style="margin-top:  0; margin-bottom: 50px; color: #eab803;">Continue Reading  ></p></div> </div>
+
+
+
+<div class="divline8">
+     <div style="background-color: #5c5c5c; text-align: center; color: #ffffff;"><p style="margin-top: 50px;margin-bottom: 0;;"><br><br><i class="fa fa-quote-left" style="font-size:24px;color:#eab803 ; margin-right:20px ;"  ></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor.</p>
+    <p style="margin-bottom:  0; margin-top: 0px; margin-left: 50px;">Suspendisse potento. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et magnis</p>
+<p style="margin-top: 0; margin-bottom: 30px;">dis parturient montes, nascetur ridiculus mus.</p>
+<h3 style="margin: 0;">Maria Smith</h3>
+<p style="margin: 0; margin-bottom: 10px;">Marketing</p> 
+<i class="fa fa-chevron-circle-left" style="color: #eab803; font-size: 24px; margin-right: 5px;"></i><i class="fa fa-chevron-circle-right" style="color: #eab803; font-size: 24px;"></i>
+</div>
+
+
+
+</div>
+
+<div class="divline9" style="background-color: #eab803;">
+    <div><h2 style="color: #ffffff; margin-left: 80px; margin-bottom: 0; margin-top: 0;"><br>Need more information?</h2>
+    <h5 style="color: #222222; margin-left: 80px; margin-top: 0; margin-bottom: 0;">We can call you and help with your problem. just leave us your phone number.</h5></div>
+    <div style="text-align: left;"><form><br><p style="font-size: xxx-small;"><input type="email" placeholder="Enter you email..." style="width: 300px; height: 40px; margin-left: 120px;"><input type="submit" value="subscribe" style="background-color: #222222; width: 100px;height: 40px; color: #ffffff;"></form></p></div>
+</div>
+
+<div class="divline10" style="background-color: #222222;">
+    <div style="margin-left:50px; width: 250px;"><br><h5 style="color:#ffffff;">ABOUT US</h5>
+    <h6 style="color: #5c5c5c; margin: 0;">Lorem ipsum dolor sit amet, consectetur</h6>
+    <h6 style="color: #5c5c5c; margin: 0;">adipiscing  elit, Morbi elementum nibh quis</h6>
+    <h6 style="color: #5c5c5c; margin-top: 0; margin-bottom: 20px;">massa tristque pulvinar.</h6>
+    <h6 style="color: #5c5c5c; margin: 0; "><i class="fa fa-map-marker" style="color: #eab803; width: 12px; height: 15px;margin-right: 5px;"></i> Amphitheatre</h6>
+    <h6 style="color: #5c5c5c; margin-top: 0; margin-bottom: 20px; margin-left: 18px;">London WC1N 3BG</h6>
+    <h6 style="color: #5c5c5c; margin-top: 0; margin-bottom: 20px;"><i class="fa fa-phone" style="color: #eab803; margin-right: 10px;"></i>+44 900 468 5555</h6>   
+    <h6 style="color: #5c5c5c; margin: 0;"><i class="fa fa-envelope" style="color: #eab803; width: 15px; height: 8px; margin-right: 5px;"></i>contact@arch.com</h6></div>
+
+
+    <div style="margin-left: 0;width: 200px;"><br><h5 style="color: #ffffff;">RECENT POSTS</h5>
+        <p style="border-radius: 0; background-color: white; border: #222222; height: 70px; width: 70px;"></p>
+        <p style="border-radius: 0; background-color: white; border: #222222; height: 70px; width: 70px;"></p></div>
+
+    <div style="width: 250px;"><h5 style="color: #eab803; margin: 0; margin-bottom: 5px;margin-top: 80px; margin-left: -80px;">Within the construction</h5>
+    <h6 style="color: #5c5c5c;margin: 0; margin-bottom: 5px; font-size: 7px; margin-left: -80px;">By Admin/02 March 2016</h6>
+    <h5 style="color: #5c5c5c;margin: 0; margin-bottom: 2px; margin-left: -80px;">Lorem ipsum dolor sit amet,</h5>
+    <h5 style="color: #5c5c5c;margin: 0; margin-left: -80px;">consectetur</h5>
+
+
+    <h5 style="color: #eab803; margin: 0; margin-bottom: 5px;margin-top: 20px; margin-left: -80px;">Prepare a room painting</h5>
+    <h6 style="color: #5c5c5c;margin: 0; margin-bottom: 5px; font-size: 7px; margin-left: -80px;">By Admin/02 March 2016</h6>
+    <h5 style="color: #5c5c5c;margin: 0; margin-bottom: 2px; margin-left: -80px;">Lorem ipsum dolor sit amet,</h5>
+    <h5 style="color: #5c5c5c;margin: 0; margin-left: -80px;">consectetur</h5>
+</div>
+
+    <div style="margin-left: 0; width: 250px;"><br><h5 style="color: #ffffff;">TWITTER</h5>
+        <h6 style="color: #eab803;margin: 0;margin-bottom: 5px;"><i class="fa fa-twitter" style="color: #eab803;font-size: 15px;"></i>Arch <span style="color: #5c5c5c;">Lorem ipsum dolor sit amet,</span></h6>
+        <h6 style="color: #5c5c5c; margin-top: 0;margin-bottom: 5px; margin-left: 11.68px;">consectetur adipiscing elit, Phasellus</h6>
+        <h6 style="color: #5c5c5c; margin-top: 0;margin-bottom: 30px; margin-left: 11.68px;">quis est sem.</h6>
+
+        <h6 style="color: #eab803;margin: 0;margin-bottom: 5px;"><i class="fa fa-twitter" style="color: #eab803;font-size: 15px;"></i>Arch <span style="color: #5c5c5c;">Donec sed congue elit,</span></h6>
+        <h6 style="color: #5c5c5c; margin-top: 0;margin-bottom: 5px; margin-left: 11.68px;">Suspendisse sed tincidunt libero</h6>
+        <h6 style="color: #5c5c5c; margin-top: 0;margin-bottom: 20px; margin-left: 11.68px;"><a href="http:bit.ly/58788998" style="color: #eab803;">http://bit.ly58788998</a></h6>
+    
+    </div>
+ 
+    <div style="margin-left: 0; width: 150px;"><br><h5 style="color: #ffffff;">INSTAGRAM</h5>
+        <p style="border-radius: 0;  background-color: white; border: #222222; height: 70px; width: 70px; display: flex;"><p style="border-radius: 0;  background-color: white; border: #222222; height: 70px; width: 70px; display: flex;"></p></div>
+    
+    <div style="width: 75px;margin-top: 62.5px;margin-left: -70px;"><p style="border-radius: 0;  background-color: white; border: #222222; height: 70px; width: 70px; display: flex;"><p style="border-radius: 0;  background-color: white; border: #222222; height: 70px; width: 70px; display: flex;"></p></div>
+
+    <div style="width: 75px; margin-top: 62.5px;margin-left: 6px;"><p style="border-radius: 0;  background-color: white; border: #222222; height: 70px; width: 70px; display: flex;"><p style="border-radius: 0;  background-color: white; border: #222222; height: 70px; width: 70px; display: flex;"></p></div>
+    
+
+
+
+
+    </div>
+    
+<div class="divline11" style="background-color: #333333;">
+    <div style="color: #797474;"><h5 style=" margin: 0; margin-left: 50px;"><br>© Copyright Themeflat 2016, All Rights Reserved</h5></div>
+    
+    
+    
+
+
+
+</div>
+
+
+</body>
+
+</html>
